@@ -7,6 +7,7 @@ const {
   updateUser,
   deleteUser,
   removeFriend,
+  addFriend,
 } = require("../../controllers/user-conroller");
 
 // /api/pizzas
